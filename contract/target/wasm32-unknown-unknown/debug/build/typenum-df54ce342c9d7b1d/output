@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/yashsharma/Documents/Chikai/voting-app/contract/target/wasm32-unknown-unknown/debug/build/typenum-df54ce342c9d7b1d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/yashsharma/Documents/Chikai/voting-app/contract/target/wasm32-unknown-unknown/debug/build/typenum-df54ce342c9d7b1d/out/op.rs
